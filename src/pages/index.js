@@ -48,6 +48,7 @@ const Index = ({ pets }) => {
                   <button className="btn view">View</button>
                 </Link>
               </div>
+              <h3>Nombre : Juan Manuel Hoyos contreras</h3>
             </div>
           </div>
         </div>
